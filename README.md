@@ -1,5 +1,17 @@
 # Maze Solver
 A Python program made to solve rectangular mazes, which are generated from https://keesiemeijer.github.io/maze-generator/.
+## Example
+<table>
+   <tr>
+      <th>Sample maze</th>
+      <th>Solution</th>
+   </tr>
+   <tr>
+      <td><img src="https://raw.githubusercontent.com/YokelMan/maze-solver/main/img/maze.png"></td>
+      <td><img src="https://raw.githubusercontent.com/YokelMan/maze-solver/main/img/maze_solution.png"></td>
+   </tr>
+</table>
+
 ## Program methodology
 The program works in the following way:
 1. Loads image path and wall thickness (option used to change size of maze) using [command line arguments](https://docs.python.org/3/library/sys.html#sys.argv).
