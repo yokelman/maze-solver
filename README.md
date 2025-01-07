@@ -23,7 +23,7 @@ The program works in the following way:
 * Solves mazes instantly
 * Support for custom value of columns, rows and wall thickness
 ## Dependencies
-[Pillow](https://python-pillow.org/) - a widely used fork of PIL (Python Imaging Library). Download it with `pip install pillow`.
+[Pillow](https://python-pillow.github.io/) - a widely used fork of PIL (Python Imaging Library). Download it with `pip install pillow`.
 ## Get started
 1. Download a maze image from the website https://keesiemeijer.github.io/maze-generator/. You can customize wall thickness, columns and rows options. (Support for other options will be added later.)
 2. Run the program `maze.py` from command line along with arguments for image path as well as wall thickness (in that order).
